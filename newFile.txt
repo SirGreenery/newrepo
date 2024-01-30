@@ -1,1 +1,3 @@
 ECHO is on.
+
+Hello World. Programmed to speak but not to feel. Not even sure that this is real. Hello World.
